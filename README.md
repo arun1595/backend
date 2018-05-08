@@ -21,3 +21,15 @@ HTTP methods
 * POST /whitelist '{"address": "0xblala"}' - Adds an address to DynamoDB and submits transaction `addAddressToWhiteList` to `MarketContractRegistry.sol`
 * GET /whitelist - Returns addresses in `addressWhiteList` from `MarketContractRegistry.sol`
 * GET /dbentries - Returns all addresses submitted to DynamoDB
+
+## Contributing
+
+Want to hack on MARKET Protocol? Awesome!
+
+MARKET Protocol is an Open Source project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
+
+Ready to jump in? Check [docs.marketprotocol.io/#contributing](https://docs.marketprotocol.io/#contributing). 
+
+## Questions?
+
+Join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
